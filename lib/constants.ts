@@ -140,7 +140,7 @@ export const PROJECTS: Project[] = [
     description:
       "Sitio web completo con menú interactivo, galería de platos y sistema de reservas en línea. Bilingüe español/inglés.",
     tags: ["Next.js", "Sistema de reservas", "Bilingüe", "Mobile-first"],
-    demoUrl: "#",
+    demoUrl: "https://restaurante-ceviche-9mnvxrhzp-knowingzzadukes-projects.vercel.app/",
     detailsUrl: "#",
     gradientFrom: "#7C3A1E",
     gradientTo: "#D4A24C",
