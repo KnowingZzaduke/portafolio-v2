@@ -42,7 +42,7 @@ export const SERVICES: Service[] = [
     id: "hotel",
     icon: "BedDouble",
     title: "Web Profesional para Hotel Boutique",
-    tagline: "Para hoteles que quieren reservas directas y dejar de depender de Booking",
+    tagline: "Para hoteles que quieren reservas directas y dejar de depender de plataformas que cobran  comisiones",
     pricing: "Inversión desde $2.800.000 COP",
     deliveryTime: "3 a 4 semanas",
     benefits: [

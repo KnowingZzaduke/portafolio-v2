@@ -116,6 +116,7 @@ export function ProjectsSection() {
                 <div className="flex gap-3">
                   <a
                     href={project.demoUrl}
+                    target="_blank"
                     className="inline-flex items-center gap-2 h-9 px-4 rounded-lg text-sm font-semibold bg-navy text-white dark:bg-gold dark:text-navy hover:opacity-90 transition-opacity"
                   >
                     <ExternalLink size={14} />
