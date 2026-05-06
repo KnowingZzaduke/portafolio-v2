@@ -88,7 +88,7 @@ export const PROJECTS: Project[] = [
     description:
       "Hotel boutique con motor de reservas directas, galería inmersiva y SEO optimizado para capturar turistas internacionales.",
     tags: ["Next.js", "Motor de reservas", "SEO", "Español/English"],
-    demoUrl: "#",
+    demoUrl: "https://hotel-boutique-eight.vercel.app/",
     detailsUrl: "#",
     gradientFrom: "#1E3A5F",
     gradientTo: "#2A4D7A",
