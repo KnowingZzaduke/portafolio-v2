@@ -122,13 +122,13 @@ export function ProjectsSection() {
                     <ExternalLink size={14} />
                     Ver demo
                   </a>
-                  <a
+                  {/* <a
                     href={project.detailsUrl}
                     className="inline-flex items-center gap-2 h-9 px-4 rounded-lg text-sm font-semibold border border-border dark:border-white/20 text-foreground/70 hover:text-foreground hover:bg-muted dark:hover:bg-white/10 transition-colors"
                   >
                     <Info size={14} />
                     Detalles
-                  </a>
+                  </a> */}
                 </div>
               </div>
             </motion.div>
